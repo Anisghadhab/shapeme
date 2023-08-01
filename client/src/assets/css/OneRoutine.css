@@ -1,0 +1,36 @@
+/* ShowOneRoutine.css */
+
+/* Container styles */
+.container {
+    margin: 16px;
+    padding: 16px;
+}
+
+/* Heading styles */
+h4 {
+    margin-bottom: 16px;
+}
+
+/* Paper styles for exercises */
+.Paper {
+    padding: 16px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Button styles */
+.Button {
+    margin-right: 16px;
+}
+
+/* Completed workout button styles */
+.CompletedButton {
+    background-color: green;
+    color: white;
+}
+
+.CompletedButton:hover {
+    background-color: darkgreen;
+}
